@@ -1,0 +1,101 @@
+                    /* NAVBAR FORMATION */
+
+#nav1{
+    background-color:rgb(4 4 60) !important;
+    padding-left: 40px;
+    height: 130px;
+}
+#orange{
+    color: rgb(221, 65, 9) !important;
+}
+#hamburger{
+    color: azure;
+}
+.dropdown:hover > .dropdown-menu {
+display: block;
+}
+.nav-link:hover{
+    border-bottom: 4px solid rgb(221, 65, 9);
+}
+.nav-link{
+    color: aliceblue !important;
+    padding-left: 60px;
+    font-size:1.3rem ;
+}
+#touch1{
+    background-color: rgb(235 108 61);
+    color: whitesmoke;
+   margin-right: 100px;
+   padding: 27px;
+   font-size: 1.3rem;
+   font-weight: bold;
+}
+/* home page */
+.design{
+    margin-top: 40px;
+    font-size: 2rem;
+    color: rgb(4 4 60);
+}
+#design1{
+    font-size: 2rem; 
+    color: rgb(4 4 60); 
+}
+.stunning{
+    font-size: 4.5rem; 
+    font-weight: bold; 
+    color: rgb(4 4 60); 
+}
+#change1{
+    color: rgb(221, 65, 9) !important;
+    font-size: 4rem;
+}
+.moreinfo1{
+    margin-top: 25px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 1.65rem;
+    font-weight: bold;
+    background-color: rgb(55 55 237);
+    color: whitesmoke;
+    border: 2px solid rgb(55 55 237);
+}
+/* website designing services */
+.services{
+    background-color: rgb(239 243 243);
+}
+#services1{
+    
+    color:  rgb(4 4 60);
+    font-weight: bold;
+    font-size: 3rem; 
+    margin-top: 55px;
+}
+.para1{
+    margin-top: 20px;
+    font-size: 1.29rem;
+    color: rgb(4 4 60);
+}
+#services2{
+    background-color: white;
+    margin-top: 30px;
+}
+.ld1{
+   padding: 45px;
+    border: 15px solid rgb(239 243 243);
+    color: rgb(4 4 60) ;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#getquote1{
+    margin-top:50px !important ;
+}
+
+
+                  /* portfolio */
+ .portf2{
+    color: rgb(4 4 60) ;
+    font-weight: bold;
+    font-size: 3rem; 
+    margin-top: 55px;
+ }                
